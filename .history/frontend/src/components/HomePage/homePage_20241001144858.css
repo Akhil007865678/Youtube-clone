@@ -1,0 +1,14 @@
+.homePage{
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+    flex: 1;
+    margin-left: 270px;
+    min-height: 100vh;
+}
+.homePage_options{
+    display: flex;
+    position: fixed;
+    top: 56px;
+    top
+}

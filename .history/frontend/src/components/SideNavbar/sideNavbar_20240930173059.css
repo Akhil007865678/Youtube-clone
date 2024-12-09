@@ -1,0 +1,6 @@
+.home-sideNavbar{
+    display: flex;
+    flex-direction: column;
+    flex: 0.16 1;
+    box-sizing: border;
+}

@@ -1,0 +1,9 @@
+.navbar{
+  height: 56px;
+  box-sizing: border-box;
+  padding: 10px 16px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  
+}

@@ -1,0 +1,16 @@
+.videoUpload{
+    padding-top: 56px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 92vh;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+}
+.uploadBox{
+
+}
+.uploadVideoTitle{
+
+}

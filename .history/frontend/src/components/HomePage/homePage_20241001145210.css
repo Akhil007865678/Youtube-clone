@@ -1,0 +1,26 @@
+.homePage{
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+    flex: 1;
+    margin-left: 270px;
+    min-height: 100vh;
+}
+.homePage_options{
+    display: flex;
+    position: fixed;
+    top: 56px;
+    z-index: 1;
+    width: 100%;
+    box-sizing: border-box;
+    gap: 10px;
+    flex-shrink: 0;
+    height: auto;
+    overflow-x: scroll;
+    background-color: black;
+}
+.homePage_option{
+    flex: 0 0 auto;
+    height: 30px;
+    
+}

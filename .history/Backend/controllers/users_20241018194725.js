@@ -1,0 +1,9 @@
+import User from '../models/User';
+
+const signUp = async(req, res) => {
+    try{
+        const {channelName, userName, about, profile}
+    }
+}
+
+export default signUp;

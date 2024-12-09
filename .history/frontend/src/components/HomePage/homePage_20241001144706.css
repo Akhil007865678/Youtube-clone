@@ -1,0 +1,7 @@
+.homePage{
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+    flex: 1;
+    margin-left: 270px;
+}
